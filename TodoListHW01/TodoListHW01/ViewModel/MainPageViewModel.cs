@@ -16,7 +16,6 @@ namespace TodoListHW01.ViewModel
             Item = new TodoItem();
 
         }
-
         public TodoItem Item { get; set; }
 
         public ObservableCollection<TodoItem> Items { get; private set; }
@@ -45,20 +44,5 @@ namespace TodoListHW01.ViewModel
                 AddItem.ChangeCanExecute();
             }
         }
-
-        //private TodoItem item;
-        //public TodoItem Item
-        //{
-        //    get => item;
-        //    set
-        //    {
-        //        SetField(ref item, value);
-        //        itemText = Item.ToString();
-        //        AddItem.ChangeCanExecute();
-
-        //    }
-        //}
-
-
     }
 }
