@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListHW01.UWP", "TodoLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListHW01.Android", "TodoListHW01\TodoListHW01.Android\TodoListHW01.Android.csproj", "{9E3D885F-8A1E-4E35-9CAE-75D6C2767CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListHW01", "TodoListHW01\TodoListHW01\TodoListHW01.csproj", "{516EFF74-C032-4FD9-90D9-52D886B2D2D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoListHW01", "TodoListHW01\TodoListHW01\TodoListHW01.csproj", "{516EFF74-C032-4FD9-90D9-52D886B2D2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListHW01.Tests", "TodoListHW01.Tests\TodoListHW01.Tests.csproj", "{1ABB653B-3655-4C04-8978-EC8A934EEE28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,22 @@ Global
 		{516EFF74-C032-4FD9-90D9-52D886B2D2D0}.Release|x86.ActiveCfg = Release|Any CPU
 		{516EFF74-C032-4FD9-90D9-52D886B2D2D0}.Release|x86.Build.0 = Release|Any CPU
 		{516EFF74-C032-4FD9-90D9-52D886B2D2D0}.Release|x86.Deploy.0 = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|ARM.Build.0 = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|x64.Build.0 = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Debug|x86.Build.0 = Debug|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|ARM.ActiveCfg = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|ARM.Build.0 = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|x64.ActiveCfg = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|x64.Build.0 = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|x86.ActiveCfg = Release|Any CPU
+		{1ABB653B-3655-4C04-8978-EC8A934EEE28}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
